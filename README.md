@@ -1,2 +1,1 @@
-# mobigesture-comp-task
-Smart Dropdown
+# Smart Dropdown
